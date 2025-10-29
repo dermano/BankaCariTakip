@@ -41,7 +41,10 @@ Yeni kullanıcı bilgileri kaydedilir.
 Benzersiz hesap numarası otomatik üretilir.
 
 Kayıt tamamlandıktan sonra kullanıcı giriş ekranına yönlendirilir.
+
 ![1](https://github.com/user-attachments/assets/e1576c20-851e-4156-8714-938e6e3a99f1)
+
 ![2](https://github.com/user-attachments/assets/8da56f2c-45a9-4b13-b898-9ffbc2429eb5)
+
 ![3](https://github.com/user-attachments/assets/ea39d94a-af3d-4f07-9fa8-80fc92ca09b7)
 
